@@ -1,7 +1,9 @@
 This is the test file ...
 
-<html>
-<body>
-<h1>this is my first repository</h1>
-</body>
-</html>
+
+
+int a=10;
+int b=20;
+int c=a+b;
+print c;
+
